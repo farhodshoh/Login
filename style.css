@@ -6,12 +6,12 @@
     display: flex;
 }
 .item1{
-    width: 50%;
+    width: 0%;
     background-color: aqua;
     height: 100vh;
 }
 .item2{
-    width: 50%;
+    width: 60%;
     background-color:red;
     height: 100vh;
 }
@@ -21,7 +21,7 @@
     }
     .item1{
         width: 100%;
-        background-color: blue;
+        background-color: green;
     }
     .item2{
         width: 100%;
